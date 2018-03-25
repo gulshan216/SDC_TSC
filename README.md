@@ -31,6 +31,7 @@ The goals / steps of this project are the following:
 #### 1. Basic Summary of the Dataset
 
 You can download the dataset from [here](https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/traffic-signs-data.zip)
+
 I used the numpy library to calculate summary statistics of the traffic signs data set:
 
 * The size of training set is 34799
